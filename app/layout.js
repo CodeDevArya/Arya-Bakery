@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <title>Arya's Bakery</title>
-      <link rel="icon" type="image/png" href="/favicon.png" />
+      <link rel="icon" type="image/png" href="https://i.ibb.co/Jczdz46/Favicon.png" />
       <body>
         <RecoilRoot>
 
