@@ -1,0 +1,21 @@
+.mainabt{
+    padding: 0px 30px;
+    font-family: lato, sans-serif;
+}
+.titlemain{
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.tit{
+    font-size: 60px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+.descabt{
+    font-size: 20px;
+    padding: 0px 40px;
+}
